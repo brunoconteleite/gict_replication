@@ -1,15 +1,6 @@
----
-title: "On the Geographical Implication of Carbon Taxes - Replication package"
-author: "Bruno Conte, Klaus Desmet, Esteban Rossi-Hansberg"
-date: "`r Sys.Date()`"
-output:
-  html_document:
-    number_sections: true
----
+# On the Geographical Implication of Carbon Taxes - Replication package
 
-<!-- # On the Geographical Implication of Carbon Taxes - Replication package -->
-
-<!-- Authors: Bruno Conte, Klaus Desmet, and Esteban Rossi Hansberg -->
+Authors: Bruno Conte, Klaus Desmet, and Esteban Rossi Hansberg
 
 # Overview
 
